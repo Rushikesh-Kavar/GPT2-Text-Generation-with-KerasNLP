@@ -1,2 +1,5 @@
 # GPT2-Text-Generation-with-KerasNLP
-IITB Project
+Introduction to Generative Large Language Models (LLMs)
+Large language models (LLMs) are a type of machine learning models that are trained on a large corpus of text data to generate outputs for various natural language processing (NLP) tasks, such as text generation, question answering, and machine translation.
+
+Generative LLMs are typically based on deep learning neural networks, such as the Transformer architecture invented by Google researchers in 2017, and are trained on massive amounts of text data, often involving billions of words. These models, such as Google LaMDA and PaLM, are trained with a large dataset from various data sources which allows them to generate output for many tasks. The core of Generative LLMs is predicting the next word in a sentence, often referred as Causal LM Pretraining. In this way LLMs can generate coherent text based on user prompts. For a more pedagogical discussion on language models, you can refer to the Stanford CS324 LLM class.
